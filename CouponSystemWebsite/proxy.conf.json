@@ -1,0 +1,38 @@
+{
+  "/users/**": {
+    "target": "http://localhost:20003",
+    "secure": false,
+    "logLevel": "debug"
+
+  },
+  "/administrator/**": {
+    "target": "http://localhost:20003",
+    "secure": false,
+    "logLevel": "debug"
+
+  },
+  "/companyController/**": {
+    "target": "http://localhost:20003",
+    "secure": false,
+    "logLevel": "debug"
+
+  },
+  "/customerController/**": {
+    "target": "http://localhost:20003",
+    "secure": false,
+    "logLevel": "debug"
+
+  },
+  "/productsController/**": {
+    "target": "http://localhost:20003",
+    "secure": false,
+    "logLevel": "debug"
+
+  },
+  "/orderController/**": {
+    "target": "http://localhost:20003",
+    "secure": false,
+    "logLevel": "debug"
+
+  }
+}
